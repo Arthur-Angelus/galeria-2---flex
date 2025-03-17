@@ -87,7 +87,7 @@ main{
     width: 33.5%;
 }
 .container-inferior>.foto>img{
-    height: 100px;
+    height: 200px;
     width: 638px;
 }
 .container-inferior>.foto:nth-of-type(3){
